@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "63532983157",
+    "project_id": "swaterhelper-a1aca",
+    "storage_bucket": "swaterhelper-a1aca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63532983157:android:23a2cdc3cf8618d44f293c",
+        "android_client_info": {
+          "package_name": "com.example.swaterhelper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63532983157-6jfahjgoang225hsae8hnbq2h8jo8l8h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWPzjm8-7dxZHlpZJ5lh9PbeDq4YAAUAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63532983157-6jfahjgoang225hsae8hnbq2h8jo8l8h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
